@@ -111,3 +111,6 @@
 </picture>
 
 
+cHECK mY gITHUB cITY: https://honzaap.github.io/GithubCity/?name=MJ-1112&year=2025
+
+
