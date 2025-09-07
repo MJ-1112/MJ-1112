@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MJ-1112.MJ-1112" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&color=D427F7&width=435&lines=What+Is+up;Mahik+Here)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=D427F7&center=true&width=435&lines=What+Is+up;Mahik+Here)](https://git.io/typing-svg)
 </h1>
 <h3 align="center">A passionate Full Stack & Blockchain developer</h3>
 
