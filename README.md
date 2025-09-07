@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahik</h1>
-<h3 align="center">A passionate Fukk Stack & Blockchain developer</h3>
+<h3 align="center">A passionate Full Stack & Blockchain developer</h3>
 
 
 - 🔭 I’m currently working on [carbonly](https://github.com/MJ-1112/Carbonly)
