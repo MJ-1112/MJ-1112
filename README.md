@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **jain.mahik@outlook.com**
 
-- ![MJ-1112's GitHub stats](https://github-readme-stats.vercel.app/api?username=MJ-1112&show_icons=true&theme=radical)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -109,11 +109,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[MJ-1112]/[MJ-1112]/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[MJ-1112]/[MJ-1112]/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[MJ-1112]/[MJ-1112]/output/pacman-contribution-graph.svg">
-</picture>
+
 
 
 Check Github City : https://honzaap.github.io/GithubCity/?name=MJ-1112&year=2025
