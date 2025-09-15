@@ -27,7 +27,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋What's Up? Dosto</h1>
 
 ###
 
