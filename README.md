@@ -103,11 +103,22 @@
 ###
 
 <div align="center">
-  ![MJ-1112's Stats](https://github-readme-stats.vercel.app/api?username=MJ-1112&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-  ![MJ-1112's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MJ-1112&theme=vue-dark&hide_border=true)
-  ![MJ-1112's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MJ-1112&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-  <img src="https://github-profile-trophy.vercel.app?username=MJ-1112&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MJ-1112&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="180" alt="stats graph" />
+
+  <!-- Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MJ-1112&theme=vue-dark&hide_border=true" height="180" alt="streak graph" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJ-1112&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="180" alt="top languages graph" />
+
 </div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=MJ-1112&theme=dracula&column=6&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+</div>
+
 
 ###
 
