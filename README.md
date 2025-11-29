@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on carbonly<br><br>🌱 I’m currently learning Automation<br><br>👯 I’m looking to collaborate on Open Source Projects<br><br>🤝 I’m looking for help with ** AI/ML**<br><br>👨‍💻 All of my projects are available at https://my-portfolio-chi-ochre-77.vercel.app/<br><br>💬 Ask me about React, Mongo, Node or Express<br><br>📫 How to reach me jain.mahik@outlook.com
+🔭 I’m currently working on ICE PICE<br><br> I’m currently learning Automation<br><br>👯 I’m looking to collaborate on Open Source Projects<br><br>🤝 I’m looking for help with ** AI/ML**<br><br>👨‍💻 All of my projects are available at https://my-portfolio-chi-ochre-77.vercel.app/<br><br>💬 Ask me about React, Mongo, Node or Express<br><br>📫 How to reach me jain.mahik@outlook.com
 
 
 ## 🌐 Socials:
