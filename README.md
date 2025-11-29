@@ -104,14 +104,12 @@
 
 <div align="center">
 
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=PathPilot1112&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="180" alt="stats graph" />
+
 
   <!-- Streak Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PathPilot1112&theme=vue-dark&hide_border=true" height="180" alt="streak graph" />
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PathPilot1112&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=15" height="180" alt="top languages graph" />
+
 
 </div>
 
