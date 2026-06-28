@@ -4,7 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+EduChain%2B;Learning+Java+%26+AI%2FML;Open+Source+Learner;Build+Learn+Repeat" />
 
-### Minimal • Dark • Builder Mindset • Consistency > Motivation
 
 </div>
 
